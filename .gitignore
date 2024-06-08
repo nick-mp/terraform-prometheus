@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+terraform.tf*
+meta-data.yaml
+prometheus.service/prometheus-*
+main.tf
